@@ -55,7 +55,7 @@ This project is licensed under the MIT License.
 ---
 
 # 🙌 Acknowledgments
-Created with guidance from Upflairs Pvt Ltd as a part of learning Python OOP concepts.
+Created using Python and OOP concepts as a part of learning Data Science
 
 ---
 
