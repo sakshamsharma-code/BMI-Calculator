@@ -44,8 +44,24 @@ person.info()
 ```
 ---
 
-# ✅ Requirements
-No external libraries needed – runs with standard Python 3.
+## 🌐 Flask Web Version
+If you're using the Flask-based web version of the BMI Calculator:
+
+## 🔧 Setup & Run
+Install Flask (if not already installed):
+
+```bash
+pip install flask
+```
+Run the Flask app (example: bmi_flask.py):
+
+```bash
+python bmi_flask.py
+```
+Open your browser and visit:
+```cpp
+http://127.0.0.1:5000/
+```
 
 ---
 
